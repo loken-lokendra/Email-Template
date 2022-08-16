@@ -81,9 +81,11 @@ hr {
 }
 
 
- @media screen and (max-width: 1028px){
-     .midd-container img{
-         width: 300px;
-     }
+ @media screen and (max-width: 1028px) {
+
+    .midd-container img{
+             width: 200px;
+    }
+    
 }
     
