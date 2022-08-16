@@ -79,3 +79,11 @@ hr {
     font-size: 2rem;
     color: white;
 }
+
+
+ @media screen and (max-width: 1028px){
+     .midd-container img{
+         width: 300px;
+     }
+}
+    
